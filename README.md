@@ -18,4 +18,4 @@ The sildes will be posted on the course BlackBoard page. They mostly serve as a 
 If you didn't attend the class, you can certainly work through the materials on your own (the Colab notebooks are designed to be readable and doable for individuals working at their own pace). The slides posted on BlackBoard will guide you through the content. The notebooks are intendend to be worked through *in order*. Each one will have examples to view and 1 or 2 practice exercises to complete.
 
 ## Aknowledgements
-I would like to aknowledge [Steve Wilson at University of Edinburgh](https://steverw.com) for making the original course publically available with an MIT license.
+I would like to aknowledge [Steve Wilson at Oakland University](https://steverw.com) for making his DS3 workshop materials publically available with an MIT license.
